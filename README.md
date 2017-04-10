@@ -1,4 +1,4 @@
-# Defite Clause Grammer Parser
+# Definite Clause Grammer Parser
 The lexicon should include all the words appearing in the examples commented on top of the file, at least twenty
 nouns, at least twenty verbs (with the past tense inflection), at least twenty adjectives, at least
 ten adverbs, at least ten prepositions, and at least ten determiners.
